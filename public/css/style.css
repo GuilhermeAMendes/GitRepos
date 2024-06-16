@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ body{
+    background-color: rgb(33, 34, 35);
+ }
+ul{
+    list-style: none;
+    font-family: sans-serif;
+}
+li{
+    clear: both;
+    margin-top: 20px;
+}
+img{
+    width: 80px;
+    float: left;
+    padding: 10px;
+}
+strong{
+    font-size: 20px;
+}
+p{
+    margin: 5px 0;
+}
